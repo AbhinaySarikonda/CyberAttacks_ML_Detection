@@ -61,5 +61,4 @@ pip install -r requirements.txt
 3. Explainable AI (SHAP)
 4. Report downloads
 
-👨‍🎓 Author
-Sarikonda Abhinay Kumar Raju
+
